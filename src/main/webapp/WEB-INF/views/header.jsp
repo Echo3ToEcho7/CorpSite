@@ -26,6 +26,7 @@
                     <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
                         <i class="ti-menu"></i>
                     </div>
+                    <!-- Some changes -->
                     <div class="module-group right">
                         <div class="module left">
                             <ul class="menu">
