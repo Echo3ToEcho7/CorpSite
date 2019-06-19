@@ -1,6 +1,6 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <jsp:include page="header.jsp"/>
-
+<!-- Comment Goes Here -->
 	<div class="main-container">
 		<section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax background-multiply">
 			<ul class="slides">
